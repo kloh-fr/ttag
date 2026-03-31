@@ -62,6 +62,6 @@
   },
   "dependencies": {
     "dedent": "1.5.1",
-    "plural-forms": "https://github.com/kloh-fr/plural-forms#custom-plural-forms"
+    "plural-forms": "https://github.com/kloh-fr/plural-forms#custom-plural-forms-2"
   }
 }
